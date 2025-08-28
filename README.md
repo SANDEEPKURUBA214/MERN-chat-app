@@ -20,19 +20,22 @@ A chat application was the perfect choice because it challenged me in multiple a
 - ☁️ **Cloud Storage** – Integrated Cloudinary for profile images and media sharing.  
 
 This project gave me hands-on experience with **end-to-end full-stack development** and showed how to make different technologies work together seamlessly.
-
+```
 ✨ Features-->
   🔐 User Authentication – Register, login, and secure sessions.
   💬 1-to-1 Real-time Chat – Built with WebSockets (Socket.IO).
   🖼️ Image Sharing – Upload and send media via Cloudinary.
   🌙 Theme Support – Light/Dark mode toggle.
   🔔 Toast Notifications – For new messages and actions.
-
+```
+```
 🏆 What I Learned-->
   How to implement real-time apps with WebSockets.
   Designing REST APIs + database schemas for scalable apps.
   Handling authentication & security in full-stack projects.
   Managing state & live updates efficiently on the frontend.
+
+  ```
 
 ---
 
