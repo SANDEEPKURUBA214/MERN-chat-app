@@ -60,8 +60,6 @@ This project gave me hands-on experience with **end-to-end full-stack developmen
 
 ---
 
-![Chat App Screenshot](assets/acc.png)
-![Chat App Screenshot](assets/chat.png)
 
 ## 📂 Folder Structure
 
