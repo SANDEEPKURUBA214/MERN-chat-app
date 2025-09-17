@@ -38,7 +38,8 @@ This project gave me hands-on experience with **end-to-end full-stack developmen
 - Handling authentication & security in full-stack projects.  
 - Managing state & live updates efficiently on the frontend.  
 
-  
+  ![Home](./Home.png)
+  ![chat](./chat.png)
 
 ## 🚀 Tech Stack
 
